@@ -1,9 +1,5 @@
 /**
  * mwbb.c -- реализует смещение позиции курсора в начало слова, если возможно
- *
- * Copyright (c) 2018, Egor Ignatov <ignatov@petrsu.ru>
- *
- * This code is licensed under a MIT-style license.
  */
 
 #include "common.h"
