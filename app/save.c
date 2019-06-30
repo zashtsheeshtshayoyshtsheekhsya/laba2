@@ -1,3 +1,6 @@
+/**
+ * save.c -- реализует команду сохранения текста
+ */
 #include "common.h"
 #include "text/text.h"
 #include <assert.h>
