@@ -1,5 +1,3 @@
-/**/
-
 #include "common.h"
 #include "text/text.h"
 #include <assert.h>
