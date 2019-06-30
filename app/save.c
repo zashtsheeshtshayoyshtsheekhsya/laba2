@@ -1,10 +1,4 @@
-/**
- * save.c -- реализует команду сохранения текста
- *
- * Copyright (c) 2018, Darya Madrakhimova <madrahim@petrsu.ru>
- *
- * This code is licensed under a MIT-style license.
- */
+
 
 #include "common.h"
 #include "text/text.h"
